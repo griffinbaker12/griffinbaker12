@@ -1,5 +1,5 @@
-Hi, my name is griffin 👋.
+# Hi, my name is griffin 👋
 
-I love to build beautiful things.
+# I love to build beautiful things.
 
-My favorite languages are Python and Swift.
+# My favorite languages are Python and Swift.

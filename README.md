@@ -6,4 +6,4 @@ I recently finished a deep work tracker (https://github.com/griffinbaker12/deep-
 
 I shipped 4 apps to the App Store over the past 2.5 years, the latest being WYD: https://apps.apple.com/us/app/wyd-keep-in-touch/id6447770949.
 
-My favorite languages are Python and Swift. Functional languages are pretty cool as well.
+My favorite languages is (currently) Python. Functional languages are pretty cool as well.

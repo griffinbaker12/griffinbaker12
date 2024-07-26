@@ -3,7 +3,7 @@ Hi, my name is griffin 👋
 I love to build beautiful things.
 
 Some projects I've worked on recently are:
-- mnist classifier ([https://github.com/griffinbaker12/JSONParser](https://github.com/griffinbaker12/Make-Your-Own-Neural-Network))
+- mnist classifier (https://github.com/griffinbaker12/Make-Your-Own-Neural-Network)
 - json parser (https://github.com/griffinbaker12/JSONParser)
 - deep work tracker (https://github.com/griffinbaker12/deep-work-tracker)
 - chrome extension (https://github.com/griffinbaker12/blue-check-remover)

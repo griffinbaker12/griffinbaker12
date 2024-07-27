@@ -3,6 +3,7 @@ Hi, my name is griffin 👋
 I love to build beautiful things.
 
 Some projects I've worked on recently are:
+- new comma connect [OSS](https://github.com/commaai/new-connect)
 - [mnist classifier](https://github.com/griffinbaker12/Make-Your-Own-Neural-Network)
 - [json parser](https://github.com/griffinbaker12/JSONParser)
 - [deep work tracker](https://github.com/griffinbaker12/deep-work-tracker)

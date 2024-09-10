@@ -1,4 +1,4 @@
-Hi, my name is griffin 👋
+Hi, my name is Griffin 👋
 
 I love to build beautiful things.
 

@@ -6,7 +6,7 @@ Some projects I've worked on recently are:
 - building a [computer from scratch](https://github.com/griffinbaker12/nand2tetris)
 - an [extensible tool](https://github.com/griffinbaker12/git-ignore-updater) that makes it easier to create `.gitignore` files
 - contributing to the new [comma connect web app](https://github.com/commaai/new-connect)
-- training a [mnist classifier](https://github.com/griffinbaker12/Make-Your-Own-Neural-Network) to 99% accuracy using _**only NumPy**_
+- training a [mnist classifier](https://github.com/griffinbaker12/Make-Your-Own-Neural-Network) to 99% accuracy using only NumPy
 - a [json parser](https://github.com/griffinbaker12/JSONParser) from scratch in Python
 - a [deep work tracker](https://github.com/griffinbaker12/deep-work-tracker) in Python (cli tool)
 

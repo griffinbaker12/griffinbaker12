@@ -8,6 +8,7 @@ Some projects I've worked on recently are:
 - contributing to the new [comma connect web app](https://github.com/commaai/new-connect)
 - training a [mnist classifier](https://github.com/griffinbaker12/Make-Your-Own-Neural-Network) to 99% accuracy using only NumPy
 - a [json parser](https://github.com/griffinbaker12/JSONParser) from scratch in Python
+- an [ascii art converter] (https://github.com/griffinbaker12/ascii-art/) in Python
 - a [deep work tracker](https://github.com/griffinbaker12/deep-work-tracker) in Python (cli tool)
 
 I've also shipped 3 apps to the App Store over the past 2.5 years that have been downloaded and used by thousands of people, the most successful one being [WYD](https://apps.apple.com/us/app/wyd-keep-in-touch/id6447770949).

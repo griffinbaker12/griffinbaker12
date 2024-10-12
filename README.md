@@ -3,8 +3,8 @@ Hi, my name is Griffin 👋
 I love to build beautiful things.
 
 Some projects I've worked on recently are:
-- building a [computer from scratch](https://github.com/griffinbaker12/nand2tetris)
 - an [ascii art converter](https://github.com/griffinbaker12/ascii-art/) in Python
+- building a [computer from scratch](https://github.com/griffinbaker12/nand2tetris)
 - an [extensible tool](https://github.com/griffinbaker12/git-ignore-updater) that makes it easier to create `.gitignore` files
 - training a [mnist classifier](https://github.com/griffinbaker12/Make-Your-Own-Neural-Network) to 99% accuracy using only NumPy
 - a [json parser](https://github.com/griffinbaker12/JSONParser) from scratch in Python

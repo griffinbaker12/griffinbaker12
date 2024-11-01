@@ -8,6 +8,7 @@ Some projects I've worked on recently are:
 - an [extensible tool](https://github.com/griffinbaker12/git-ignore-updater) that makes it easier to create `.gitignore` files
 - training a [mnist classifier](https://github.com/griffinbaker12/Make-Your-Own-Neural-Network) to 99% accuracy using only NumPy
 - a [json parser](https://github.com/griffinbaker12/JSONParser) from scratch in Python
+- a [particle visualizer](https://github.com/griffinbaker12/particle-viz) in Lua using the Love2d game engine
 - a [deep work tracker](https://github.com/griffinbaker12/deep-work-tracker) in Python (cli tool)
 - contributing to the new [comma connect web app](https://github.com/commaai/new-connect)
 

@@ -14,5 +14,3 @@ Some projects I've worked on recently are:
 I've also shipped 3 apps to the App Store over the past 2.5 years that have been downloaded and used by thousands of people, the most successful one being [WYD](https://apps.apple.com/us/app/wyd-keep-in-touch/id6447770949).
 
 My favorite languages is (currently) Python. Functional languages are pretty cool as well ([but dumb when strictly defined](https://youtu.be/ovYbgbrQ-v8?si=EhHlj2VXE1yXM7t2&t=1947)).
-
-You can DM me on [X](https://x.com/0x_pix).

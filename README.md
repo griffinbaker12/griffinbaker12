@@ -4,7 +4,7 @@ I love to build beautiful things.
 
 I'm currently working on a voice-enabled AI assistant, optimized for running on the raspberry pi. Think [humane ai pin](https://humane.com), but for frontline workers. 
 
-I’ve also shipped three apps to the App Store, collectively downloaded and used by thousands of people. The most successful, WYD, peaked at over 400 daily active users.
+I’ve also shipped four apps to the App Store, collectively downloaded and used by thousands of people. The most successful, WYD, peaked at over 400 daily active users.
 
 Some other projects I've worked on recently are:
 - an [ascii art converter](https://github.com/griffinbaker12/ascii-art/) in Python

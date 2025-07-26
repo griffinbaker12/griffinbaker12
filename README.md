@@ -20,4 +20,4 @@ Some other projects I've worked on are:
 - a [deep work tracker](https://github.com/griffinbaker12/deep-work-tracker) in Python (cli tool)
 - contributing to the new [comma connect web app](https://github.com/commaai/new-connect)
 
-My favorite language is Python. Functional languages are pretty cool as well ([but dumb when strictly defined](https://youtu.be/ovYbgbrQ-v8?si=EhHlj2VXE1yXM7t2&t=1947)).
+My favorite language is Python, but appreciate the simplicity and performance of Go when solving problems at scale. Functional languages are pretty cool as well ([but dumb when strictly defined](https://youtu.be/ovYbgbrQ-v8?si=EhHlj2VXE1yXM7t2&t=1947)).

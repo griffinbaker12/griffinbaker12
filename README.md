@@ -2,9 +2,11 @@ Hi, my name is Griffin 👋
 
 I love to build beautiful things.
 
-I'm currently working as a Senior SWE at [Variance](https://www.variance.co), solving hard problems with AI Agents.
+I'm currently working as a Senior Python Engineer at [Prompt](https://promptemr.com/).
 
-Previously, I was working on a voice-enabled AI assistant, optimized for running on the raspberry pi. Think [humane ai pin](https://humane.com), but for frontline workers. 
+Previously, I've worked:
+- As a Senior SWE at [Variance](https://www.variance.co), solving hard problems with AI Agents.
+- On a voice-enabled AI assistant, optimized for running on the raspberry pi. Think [humane ai pin](https://humane.com), but for frontline workers. 
 
 I’ve also shipped four apps to the App Store, collectively downloaded and used by thousands of people. The most successful, WYD, peaked at over 400 daily active users before getting acquired.
 
